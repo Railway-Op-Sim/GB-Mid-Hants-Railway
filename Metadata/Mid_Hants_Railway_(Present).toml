@@ -1,0 +1,12 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "Mid Hants Railway (Watercress Line) from Alton to Alresford"
+display_name = 'Mid Hants Railway'
+doc_files = [ 'Mid_Hants_Railway.md' ]
+factual = true
+img_files = [ 'Mid_Hants_Railway_(Present).bmp' ]
+name = 'Mid Hants Railway'
+release_date = '2023-07-25'
+rly_file = 'Mid_Hants_Railway_(Present).rly'
+ttb_files = [ 'Mid_Hants_Railway_(Present).ttb' ]
+version = '1.0.0'

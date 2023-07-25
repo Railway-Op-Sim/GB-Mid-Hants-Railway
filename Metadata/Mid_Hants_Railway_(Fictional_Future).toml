@@ -1,0 +1,12 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "Fictional version of the Mid Hants Railway (Watercress Line) reopened between Alton and Winchester"
+display_name = 'Mid Hants Railway (Fictional)'
+doc_files = [ 'Mid_Hants_Railway.md', 'Mid Hants Railway Timetable.xlsx' ]
+factual = true
+img_files = [ 'Mid_Hants_Railway_(Fictional_Future).bmp' ]
+name = 'Mid Hants Railway (Fictional)'
+release_date = '2023-07-25'
+rly_file = 'Mid_Hants_Railway_(Fictional_Future).rly'
+ttb_files = [ 'Mid_Hants_Railway_(Fictional_Future).ttb' ]
+version = '1.0.0'
