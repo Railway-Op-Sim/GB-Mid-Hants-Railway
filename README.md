@@ -1,8 +1,8 @@
 # Mid Hants Railway
 Two versions of the Mid Hants Railway - the present day heritage railway between Alton and Alresford, and a fictional future version, with the full length reopened between Alton and Winchester.
 
-![Image of Current State of "Present" Map](Images/Mid_Hants_Railway(Present).bmp)
-![Image of Current State of "Fictional Future" Map](Images/Mid_Hants_Railway(Fictional_Future).bmp)
+![Image of Current State of "Present" Map](Images/Mid_Hants_Railway_(Present).bmp)
+![Image of Current State of "Fictional Future" Map](Images/Mid_Hants_Railway_(Fictional_Future).bmp)
 
 ## Current Status
 
